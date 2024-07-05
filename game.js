@@ -1,3 +1,4 @@
+// edited file
 var buttonColours = ["red", "blue", "green", "yellow"];
 var gamePattern = [];
 var userClickedPattern = [];
