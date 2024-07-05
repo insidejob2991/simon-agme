@@ -50,7 +50,7 @@ function animatePress(currentColor) {
     }, 100);
   }
   
-function checkAnswer(currentLevel) {
+  function checkAnswer(currentLevel) {
     if (userClickedPattern[currentLevel] === gamePattern[currentLevel]) {
         if (userClickedPattern.length === gamePattern.length) {
             setTimeout(function() {
